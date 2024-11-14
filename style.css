@@ -34,7 +34,8 @@
 }
 .container_1{
   background-color:#002b46;
-  padding: 8%;
+  width:100%;
+  height:auto;
 }
 h1,h2,h3,p{
   color:#ffffff ;
